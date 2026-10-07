@@ -16,7 +16,7 @@ logged-in account.
      --user-data-dir="$env:LOCALAPPDATA\VolzaExportProfile"
    ```
 
-   Sign in to Volza in that Chrome profile if needed. To use another Chrome
+   Sign in to Volza - https://www.volza.com/signin-wizard-step-1/ in that Chrome profile if needed. To use another Chrome
    executable or debugging port, set `VOLZA_CDP_ENDPOINT` to its CDP address.
 3. Run either command from the project folder:
 
